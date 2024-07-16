@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/36c5eb8e-d68d-4e00-939d-a93c5f665d30)# Supply-Chain-Analysis Dashboard
+
 
 Input dataset contains all the information regarding the columns described in the CSV files.
 1. dim_customers.csv
