@@ -73,6 +73,15 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 5. in_full: '1' denotes the order is delviered in full quantity. '0' denotes the order is not delivered in full quantity.
 6: otif:    '1' denotes the order is delviered both on time and in full quantity. '0' denotes the order is either not delivered on time or not in full quantity.
 
+# Steps:
+1.Data Loading
+2.Data Preprocessing & Transformation
+3.Data Modelling 
+4.Creating DAX queries for columns and measures
+5.Data Visualization
+6.Report Generation
+
+
 
 ![Screenshot_16-7-2024_23926_](https://github.com/user-attachments/assets/8c32a525-ea7a-41e6-8fdd-e7d8a79c07b2)
 ![Screenshot_16-7-2024_23940_](https://github.com/user-attachments/assets/06f7894e-64c1-4dd6-9910-3f95a96b7b5a)
