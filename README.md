@@ -83,17 +83,17 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 
 4.Creating DAX queries for columns and measures
 
-Total Order Lines =Count of all order lines in fact_orders table
+    Total Order Lines =Count of all order lines in fact_orders table
+    
+    Line Fill Rate(LIFR %) =Number of order lines shipped In Full Quantity / Total Order Lines
+    
+    Volume Fill Rate(VOFR %) =Total Quantity shipped / Total Quantity Ordered
+    
+    Total Orders =Total orders from fact aggregate table
+    
+    On Time Delivery(OT %) =Number of orders delivered On Time / Total Number of Orders
 
-Line Fill Rate(LIFR %) =Number of order lines shipped In Full Quantity / Total Order Lines
-
-
-Volume Fill Rate(VOFR %) =Total Quantity shipped / Total Quantity Ordered
-
-Total Orders =Total orders from fact aggregate table
-
-On Time Delivery(OT %) =Number of orders delivered On Time / Total Number of Orders
-In Full Delivery(IF %) =Number of orders delivered in Full quantity / Total Number of Orders
+    In Full Delivery(IF %) =Number of orders delivered in Full quantity / Total Number of Orders
 
 
 
