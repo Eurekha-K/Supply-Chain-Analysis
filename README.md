@@ -80,6 +80,8 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 2.Data Preprocessing & Transformation
 
 3.Data Modelling 
+![WhatsApp Image 2024-07-16 at 1 53 29 PM](https://github.com/user-attachments/assets/69516d7b-d13f-4dd4-8bc1-33afa63179de)
+
 
 4.Creating DAX queries for columns and measures
 
